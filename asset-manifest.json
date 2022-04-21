@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.a8f59a10.css",
-    "main.js": "/portfolio/static/js/main.d3434824.js",
-    "static/media/boy.png": "/portfolio/static/media/boy.cb215a37bc4a95527f20.png",
-    "static/media/Vector2.png": "/portfolio/static/media/Vector2.b52584f8123a0951a686.png",
-    "static/media/sidebar.png": "/portfolio/static/media/sidebar.59a0ca17b93da4e6ce67.png",
-    "static/media/ecommerce.png": "/portfolio/static/media/ecommerce.20de566556c92e8879cb.png",
-    "static/media/glassesimoji.png": "/portfolio/static/media/glassesimoji.a08bdab12e8eb56a6874.png",
-    "static/media/CV.pdf": "/portfolio/static/media/CV.ca0b56f6df10037d1a30.pdf",
-    "static/media/Gumela Regular.otf": "/portfolio/static/media/Gumela Regular.0ae83c6988a536716eb4.otf",
-    "static/media/amazon.png": "/portfolio/static/media/amazon.62f23a57938157f15000.png",
-    "static/media/humble.png": "/portfolio/static/media/humble.c8b32b53675e68978981.png",
-    "static/media/heartemoji.png": "/portfolio/static/media/heartemoji.26b1b6ed5e0e44083b28.png",
-    "static/media/wave.png": "/portfolio/static/media/wave.fdfef4069ad90f610990.png",
-    "static/media/crown.png": "/portfolio/static/media/crown.dbe416beae9b49b842ab.png",
-    "static/media/glasses.png": "/portfolio/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
-    "static/media/thumbup.png": "/portfolio/static/media/thumbup.726405003d2d43d11fef.png",
-    "static/media/fiverr.png": "/portfolio/static/media/fiverr.276ce57f2e7aef5bc39e.png",
-    "index.html": "/portfolio/index.html",
-    "main.a8f59a10.css.map": "/portfolio/static/css/main.a8f59a10.css.map",
-    "main.d3434824.js.map": "/portfolio/static/js/main.d3434824.js.map"
+    "main.css": "/Portfolio/static/css/main.9c6b026d.css",
+    "main.js": "/Portfolio/static/js/main.12121240.js",
+    "static/media/boy.png": "/Portfolio/static/media/boy.cb215a37bc4a95527f20.png",
+    "static/media/Vector2.png": "/Portfolio/static/media/Vector2.b52584f8123a0951a686.png",
+    "static/media/sidebar.png": "/Portfolio/static/media/sidebar.59a0ca17b93da4e6ce67.png",
+    "static/media/ecommerce.png": "/Portfolio/static/media/ecommerce.20de566556c92e8879cb.png",
+    "static/media/glassesimoji.png": "/Portfolio/static/media/glassesimoji.a08bdab12e8eb56a6874.png",
+    "static/media/CV.pdf": "/Portfolio/static/media/CV.ca0b56f6df10037d1a30.pdf",
+    "static/media/Gumela Regular.otf": "/Portfolio/static/media/Gumela Regular.0ae83c6988a536716eb4.otf",
+    "static/media/amazon.png": "/Portfolio/static/media/amazon.62f23a57938157f15000.png",
+    "static/media/humble.png": "/Portfolio/static/media/humble.c8b32b53675e68978981.png",
+    "static/media/heartemoji.png": "/Portfolio/static/media/heartemoji.26b1b6ed5e0e44083b28.png",
+    "static/media/wave.png": "/Portfolio/static/media/wave.fdfef4069ad90f610990.png",
+    "static/media/crown.png": "/Portfolio/static/media/crown.dbe416beae9b49b842ab.png",
+    "static/media/glasses.png": "/Portfolio/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
+    "static/media/thumbup.png": "/Portfolio/static/media/thumbup.726405003d2d43d11fef.png",
+    "static/media/fiverr.png": "/Portfolio/static/media/fiverr.276ce57f2e7aef5bc39e.png",
+    "index.html": "/Portfolio/index.html",
+    "main.9c6b026d.css.map": "/Portfolio/static/css/main.9c6b026d.css.map",
+    "main.12121240.js.map": "/Portfolio/static/js/main.12121240.js.map"
   },
   "entrypoints": [
-    "static/css/main.a8f59a10.css",
-    "static/js/main.d3434824.js"
+    "static/css/main.9c6b026d.css",
+    "static/js/main.12121240.js"
   ]
 }
