@@ -1,0 +1,47 @@
+.footer {
+  display: flex;
+  align-items: center;
+  margin: -0.5rem -3.5rem;
+  position: relative;
+  margin-top: 2rem;
+  height: 20vh;
+}
+
+.f-content {
+  position: absolute;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  width: 100%;
+  margin-top: 0rem;
+  gap: 1rem;
+  color: white;
+}
+
+.f-content > span {
+  font-weight: 100;
+  font-size: 1.2rem;
+  margin-top: 10px;
+  letter-spacing: 0.5px;
+}
+
+.f-icons {
+  display: flex;
+  gap: 2rem;
+}
+
+@media screen and (max-width: 480px) {
+  .footer {
+    margin-top: -12rem;
+  }
+
+  .f-content {
+    margin-top: 1.5rem;
+    gap: 1rem;
+  }
+
+  .f-content > span {
+    font-size: 1rem;
+  }
+}
