@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.4d836a1e.css",
-    "main.js": "/Portfolio/static/js/main.cf07c739.js",
+    "main.css": "/Portfolio/static/css/main.dfda35ef.css",
+    "main.js": "/Portfolio/static/js/main.6e1fdb6c.js",
     "static/media/boy.png": "/Portfolio/static/media/boy.cb215a37bc4a95527f20.png",
     "static/media/Vector2.png": "/Portfolio/static/media/Vector2.b52584f8123a0951a686.png",
     "static/media/sidebar.png": "/Portfolio/static/media/sidebar.59a0ca17b93da4e6ce67.png",
     "static/media/ecommerce.png": "/Portfolio/static/media/ecommerce.20de566556c92e8879cb.png",
     "static/media/glassesimoji.png": "/Portfolio/static/media/glassesimoji.a08bdab12e8eb56a6874.png",
-    "static/media/CV.pdf": "/Portfolio/static/media/CV.ca0b56f6df10037d1a30.pdf",
+    "static/media/CV.pdf": "/Portfolio/static/media/CV.80d945b8d8038ca32011.pdf",
     "static/media/Gumela Regular.otf": "/Portfolio/static/media/Gumela Regular.0ae83c6988a536716eb4.otf",
     "static/media/amazon.png": "/Portfolio/static/media/amazon.62f23a57938157f15000.png",
     "static/media/humble.png": "/Portfolio/static/media/humble.c8b32b53675e68978981.png",
@@ -18,11 +18,11 @@
     "static/media/thumbup.png": "/Portfolio/static/media/thumbup.726405003d2d43d11fef.png",
     "static/media/fiverr.png": "/Portfolio/static/media/fiverr.276ce57f2e7aef5bc39e.png",
     "index.html": "/Portfolio/index.html",
-    "main.4d836a1e.css.map": "/Portfolio/static/css/main.4d836a1e.css.map",
-    "main.cf07c739.js.map": "/Portfolio/static/js/main.cf07c739.js.map"
+    "main.dfda35ef.css.map": "/Portfolio/static/css/main.dfda35ef.css.map",
+    "main.6e1fdb6c.js.map": "/Portfolio/static/js/main.6e1fdb6c.js.map"
   },
   "entrypoints": [
-    "static/css/main.4d836a1e.css",
-    "static/js/main.cf07c739.js"
+    "static/css/main.dfda35ef.css",
+    "static/js/main.6e1fdb6c.js"
   ]
 }
